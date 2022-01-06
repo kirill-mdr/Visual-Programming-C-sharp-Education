@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\bin\Debug\net5.0-windows\MouseTrajectory.deps.json
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\bin\Debug\net5.0-windows\MouseTrajectory.dll
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\bin\Debug\net5.0-windows\ref\MouseTrajectory.dll
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\bin\Debug\net5.0-windows\MouseTrajectory.pdb
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.UserControl1.resources
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.AssemblyInfo.cs
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.dll
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\ref\MouseTrajectory.dll
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.pdb
+C:\Users\Professional\source\repos\VP_5\MouseTrajectory\obj\Debug\net5.0-windows\MouseTrajectory.csproj.AssemblyReference.cache

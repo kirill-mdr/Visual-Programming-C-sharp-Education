@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VP_5/1.0.0": {
+        "dependencies": {
+          "MouseTrajectory": "1.0.0"
+        },
+        "runtime": {
+          "VP_5.dll": {}
+        }
+      },
+      "MouseTrajectory/1.0.0": {
+        "runtime": {
+          "MouseTrajectory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VP_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MouseTrajectory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

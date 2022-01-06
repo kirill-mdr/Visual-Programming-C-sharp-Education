@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP_5", "VP_5\VP_5.csproj", "{54AF8FAA-2CD6-4DBD-997D-0B354926C73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseTrajectory", "MouseTrajectory\MouseTrajectory.csproj", "{4F33156E-B10A-4752-BC4E-FC2D19251ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AF8FAA-2CD6-4DBD-997D-0B354926C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AF8FAA-2CD6-4DBD-997D-0B354926C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AF8FAA-2CD6-4DBD-997D-0B354926C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AF8FAA-2CD6-4DBD-997D-0B354926C73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F33156E-B10A-4752-BC4E-FC2D19251ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F33156E-B10A-4752-BC4E-FC2D19251ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F33156E-B10A-4752-BC4E-FC2D19251ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F33156E-B10A-4752-BC4E-FC2D19251ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F4BD96-C3F4-44CD-8FD0-669571DD6A79}
+	EndGlobalSection
+EndGlobal
